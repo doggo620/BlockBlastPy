@@ -86,14 +86,11 @@ pip install pygame opencv-python
 
 ## Todo List ✅
 
-  * **Refine Block Placement:** Improve the logic for blocks returning to their original position if placement is invalid.
   * **Optimize Score Calculation:** Review and fix the score calculation logic within `checkPossibility`.
-  * **Remove Debugging Tools:** Clean up and remove the debugging key bindings from `main.py` before a release.
   * **Enhance UI/UX:**
       * Add a clearer "Game Over" screen.
       * Implement sound effects for block placement, line clears, etc.
       * Improve visual feedback for score updates.
-  * **Difficulty Scaling:** Consider introducing increasing difficulty (e.g., more complex shapes, faster pace).
   * **Persistence:** Add a high score saving feature.
 
 ## Contributing 🤝
